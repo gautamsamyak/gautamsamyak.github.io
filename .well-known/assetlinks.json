@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.samyak.familyapp",
+      "sha256_cert_fingerprints": [
+        "1D:BB:05:AD:04:0D:92:46:5C:D7:B1:C2:9E:C8:1E:6A:EE:A7:88:31:AE:80:C3:E0:19:AD:4D:86:8E:6F:AB:F8"
+      ]
+    }
+  }
+]
