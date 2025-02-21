@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "797GWH43UV.com.samyak.familyapp",
+             "paths": ["/login/*"] // you can use wildcard to accept any route like ["*"] and also you can use [ "NOT /recover/*", "*" ] to accept all routes but not the recover 
+           }
+       ]
+   }
+}
